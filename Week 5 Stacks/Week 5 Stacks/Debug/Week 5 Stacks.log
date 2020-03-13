@@ -1,0 +1,25 @@
+﻿  LinkedList.cpp
+  LinkedStack.cpp
+  Week 5 Stacks.cpp
+C:\Users\sfeli\Source\Repos\Week 5 Stacks\Week 5 Stacks\Week 5 Stacks.cpp(42,18): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\sfeli\Source\Repos\Week 5 Stacks\Week 5 Stacks\Week 5 Stacks.cpp(43,21): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\sfeli\Source\Repos\Week 5 Stacks\Week 5 Stacks\Week 5 Stacks.cpp(44,18): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+C:\Users\sfeli\Source\Repos\Week 5 Stacks\Week 5 Stacks\Week 5 Stacks.cpp(45,17): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+  Generating Code...
+  Week 5 Stacks.vcxproj -> C:\Users\sfeli\Source\Repos\Week 5 Stacks\Debug\Week 5 Stacks.exe
